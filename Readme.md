@@ -12,3 +12,4 @@ DomainInfo_Find.exe -d 域控ip
 ```bash
 DomainInfo_Find.exe -d 域控ip -u 域用户账户 -p 域用户密码
 ```
+![result](/result.png)
